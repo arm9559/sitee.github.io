@@ -1,0 +1,31 @@
+.relation-ship-container{
+    position: relative;
+    top:1357px;
+    display: flex;
+    flex-direction: column;
+    .relation-ship-text-ccontainer{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+        h1{
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 41px;
+            line-height: 50px;
+            text-align: center;
+            color: #000000;
+        }
+        p{
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 11px;
+            line-height: 30px;
+            text-align: center;
+            color: #737373;
+        }
+    }
+}
